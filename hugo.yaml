@@ -1,0 +1,103 @@
+baseURL: "https://raghul-parthipan.github.io/"
+languageCode: en-us
+title: Raghul Parthipan
+theme: ["PaperMod"]
+googleAnalytics: G-ESV09V1ZQG
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+menu:
+  main:
+    - name: About Me
+      url: about
+      weight: 1
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  math: true
+  ShowBreadCrumbs: true
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowFullTextinRSS: true
+  showtoc: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  UseHugoToc: true
+  fuseOpts:
+    ignoreLocation: true
+    keys: ["title", "permalink", "summary", "content"]
+
+
+
+  # profileMode:
+  #   enabled: true
+  #   title: "<Title>" # optional default will be site title
+  #   subtitle: "Hi, I'm Raghul. I'm a final year PhD student at the University of Cambridge's Computer Laboratory and the British Antarctic Survey. 
+  #   \\
+
+  #   \\
+
+  #   I create probability models for dynamical systems and continuous processes. I use neural networks as the building blocks. Think of what ChatGPT does for language, but doing that sort of thing for energy, weather and so on. That's the idea.
+  #   \\
+
+  #   \\
+
+  #   The problem is out-of-the-box tools don't work that well for continuous processes. For example, a common issue in machine-learning (ML) forecast models is error accumulation: errors in your forecast accumulate, and soon you may be predicting quantities which are plain unreasonable. I've been working on fixing such issues.
+  #   \\
+
+  #   \\
+
+  #   Once we have a suitable probabilistic ML model for processes, we could use it to forecast things like the weather. If we do that, we can explore a range of future possible scenarios.
+  #   \\
+
+  #   \\
+
+  #   I'm also interested in causality for ML forecast models. We want our models to work in novel scenarios (such as the future). Typical ML is just pattern-matching. If we could learn causal mechanisms instead, that could provide the answer. After all, one reason we trust the laws of physics to work well in new scenarios is because we feel they encode causal mechanisms of the world. How can we get ML models to learn these?
+  #   \\
+    
+  #   \\
+
+  #   I've finally started writing up some of my thoughts, after hosting a blank website for years.
+
+  #   \\
+
+  #   \\
+
+  #   I'm also a powerlifter, and may upload powerlifting content at some point. 
+
+
+  #   "
+  #   imageUrl: "/profile_pic.jpg" # optional
+  #   # imageTitle: "<title of image as alt>" # optional
+  #   imageWidth: 240 # custom size
+  #   imageHeight: 240 # custom size
+  #   buttons:
+  #     # - name: Archive
+  #     #   url: "/archive"
+  #     # - name: Github
+  #     #   url: "https://github.com/"
+  homeInfoParams:
+    Title: Hi, I'm Raghul
+    Content: I'll be writing on a range of topics, focussing on ML and probability.
+  socialIcons: # optional
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/raghulparthipan/"
+  #   - name: "<platform 2>"
+  #     url: "<link2>"
