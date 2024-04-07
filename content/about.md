@@ -3,7 +3,7 @@ title: "About Me"
 date: 2024-01-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-author: "Raghul Parthipan"
+# author: "Raghul Parthipan"
 summary: "Information about me"
 showToc: false
 draft: false
@@ -15,8 +15,8 @@ disableHLJS: true # to disable highlightjs
 disableShare: true
 hideSummary: false
 searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowReadingTime: false
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true

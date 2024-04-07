@@ -1,4 +1,4 @@
-baseURL: "https://raghul-parthipan.github.io/"
+baseURL: "https://raghulparthipan.com/"
 languageCode: en-us
 title: Raghul Parthipan
 theme: ["PaperMod"]
@@ -95,7 +95,9 @@ params:
   #     #   url: "https://github.com/"
   homeInfoParams:
     Title: Hi, I'm Raghul
-    Content: I'll be writing on a range of topics, focussing on ML and probability.
+    Content: I'll be writing on a range of topics, focussing on ML and probability, mainly documenting what I've learnt. I'm about to submit my PhD at Cambridge, and will then be spending 6 months at Amazon. I'm interested in using ML to forecast dynamical systems, especially the weather. Please get in touch if you know of any relevant opportunities! There's more about me [here](/about).  
+  
+  
   socialIcons: # optional
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/raghulparthipan/"
