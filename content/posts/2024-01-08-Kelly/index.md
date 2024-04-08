@@ -538,9 +538,28 @@ There are more choices you can make though. What logarithm base should you use, 
 
 It is one thing to say we want to get lots of wealth. But we still need to think about what we want to optimize as our wealth at a given time is often a random quantity. For certain cases, such as the long-run games mentioned at the start, by choosing to maximize long-term wealth we move to a deterministic function which we can just optimize. In other (maybe more realistic) cases, this does not pop out from the maths. Instead, we have to explicitly choose a summary function of wealth which we want to optimize. The expected log wealth is a popular one. But other choices may be more appropriate based on what we care for.
 
-### References
+## Citation
+
+Cited as:
+
+Parthipan, Raghul. (Jan 2024). The Kelly Criterion and making bets. https://raghulparthipan.com/posts/2024-01-08-kelly/.
+
+Or
+
+<pre tabindex="0"><code id="bibtex">@article{parthipan2024kellycriterion},
+  title   = "The Kelly Criterion and making bets,
+  author  = "Parthipan, Raghul",
+  journal = "Raghul Parthipan",
+  year    = "2024",
+  month   = "Jan",
+  url     = "https://raghulparthipan.com/posts/2024-01-08-kelly/"
+  }
+</code></pre>
+
+## References
 
 1. Kelly, J. L. (1956). A new interpretation of information rate. *the bell system technical journal*, 35(4), 917-926.
 2. https://www.caichinger.com/blog/2018/04/19/kelly_criterion4/
 3. Thorp, E. O. (2008). The Kelly criterion in blackjack sports betting, and the stock market. In *Handbook of asset and liability management* (pp. 385-428). North-Holland.
 4. McEnally, R. W. (1986). Latane's bequest: The best of portfolio strategies. *The Journal of Portfolio Management*, 12(2), 21-30.
+

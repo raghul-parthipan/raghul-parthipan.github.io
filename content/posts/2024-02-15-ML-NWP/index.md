@@ -314,3 +314,24 @@ The current ML which is used is just based on learning correlations. This contra
 If we want our ML models to also be robust and work well in novel scenarios, then we will need to train ML models to learn causal relationships too. This will become more important when we use ML to do extended range, S2S forecasts and even longer. The longer the time-horizon of the forecast, the more likely it is that the Earth's state will move further and further away from what it looked like in the training data. Models will need to generalize well to therefore perform well. 
 
 There's no obvious off-the-shelf tool to deploy here. It's an open research question, and one which I've been thinking about for the past year. I think it will be an important piece of the puzzle going forward!
+
+## Citation
+
+Cited as:
+
+Parthipan, Raghul. (Feb 2024). ML for Numerical Weather Prediction. https://raghulparthipan.com/posts/2024-02-15-ml-nwp/.
+
+Or
+
+<pre tabindex="0"><code id="bibtex">@article{parthipan2024mlnwp},
+  title   = "ML for Numerical Weather Prediction,
+  author  = "Parthipan, Raghul",
+  journal = "Raghul Parthipan",
+  year    = "2024",
+  month   = "Feb",
+  url     = "https://raghulparthipan.com/posts/2024-02-15-ml-nwp/"
+  }
+</code></pre>
+
+
+
