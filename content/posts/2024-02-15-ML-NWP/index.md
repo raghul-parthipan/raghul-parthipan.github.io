@@ -333,5 +333,3 @@ Or
   }
 </code></pre>
 
-
-{{ template "_internal/disqus.html" . }}
