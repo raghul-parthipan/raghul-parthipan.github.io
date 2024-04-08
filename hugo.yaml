@@ -40,9 +40,12 @@ params:
   ShowBreadCrumbs: true
   ShowWordCount: true
   UseHugoToc: true
+  comments: true
   fuseOpts:
     ignoreLocation: true
     keys: ["title", "permalink", "summary", "content"]
+
+
 
 
 
@@ -110,3 +113,8 @@ params:
       favicon16x16: "/assets/favicon-16x16.png"
       favicon32x32: "/assets/favicon-32x32.png"
       apple_touch_icon: "apple-touch-icon.png"
+
+services:
+  disqus:
+    shortname: "raghulparthipan"
+
