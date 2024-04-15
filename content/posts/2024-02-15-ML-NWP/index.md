@@ -323,7 +323,7 @@ Parthipan, Raghul. (Feb 2024). ML for Numerical Weather Prediction. https://ragh
 
 Or
 
-<pre tabindex="0"><code id="bibtex">@article{parthipan2024mlnwp},
+<pre tabindex="0"><code id="bibtex">@article{parthipan2024mlnwp,
   title   = "ML for Numerical Weather Prediction,
   author  = "Parthipan, Raghul",
   journal = "Raghul Parthipan",

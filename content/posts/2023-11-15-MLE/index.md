@@ -151,7 +151,7 @@ Parthipan, Raghul. (Nov 2023). Fitting Models by Maximizing Likelihood. https://
 
 Or
 
-<pre tabindex="0"><code id="bibtex">@article{parthipan2023maxlik},
+<pre tabindex="0"><code id="bibtex">@article{parthipan2023maxlik,
   title   = "Fitting Models by Maximizing Likelihood,
   author  = "Parthipan, Raghul",
   journal = "Raghul Parthipan",

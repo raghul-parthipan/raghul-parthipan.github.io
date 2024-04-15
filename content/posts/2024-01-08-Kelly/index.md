@@ -546,7 +546,7 @@ Parthipan, Raghul. (Jan 2024). The Kelly Criterion and making bets. https://ragh
 
 Or
 
-<pre tabindex="0"><code id="bibtex">@article{parthipan2024kellycriterion},
+<pre tabindex="0"><code id="bibtex">@article{parthipan2024kellycriterion,
   title   = "The Kelly Criterion and making bets,
   author  = "Parthipan, Raghul",
   journal = "Raghul Parthipan",
