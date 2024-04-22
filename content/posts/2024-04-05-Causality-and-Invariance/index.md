@@ -9,7 +9,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 # description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
@@ -25,6 +25,8 @@ UseHugoToc: true
 math: true
 
 ---
+
+<!-- <span style="color: #33b2ff ">Thanks to Damon Wischik for his conversations around this.</span> -->
 
 There are a number of reasons we may wish to learn causal mechanisms when modelling a system/forecasting the weather/classifying an image. If our model captures the underlying causal mechanisms, it should be robust to new scenarios (e.g. the future), and it should still produce sensible results if we alter the input ("make an intervention"). Intervening on a system and seeing how things end up helps us make decisions. 
 
