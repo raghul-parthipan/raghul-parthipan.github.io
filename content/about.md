@@ -25,7 +25,7 @@ math: false
 
 ---
 
-Hi, I'm Raghul. I'm a final year PhD student at the University of Cambridge's Computer Laboratory and the British Antarctic Survey.
+Hi, I'm Raghul. I've just finished my PhD at the University of Cambridge's Computer Laboratory, where I worked on probabilistic ML models for weather, and am now interning at Amazon. 
 
 
 <br>
@@ -46,7 +46,7 @@ Once we have a suitable probabilistic ML model for processes, we could use it to
 
 I'm also interested in causality for ML forecast models. We want our models to work in novel scenarios (such as the future). Typical ML is just pattern-matching. If we could learn causal mechanisms instead, that could provide the answer. After all, one reason we trust the laws of physics to work well in new scenarios is because we feel they encode causal mechanisms of the world. How can we get ML models to learn these?
 
-I've finally started writing up some of my thoughts, after hosting a blank website for years.
+<!-- I've finally started writing up some of my thoughts, after hosting a blank website for years. -->
 
 I'm also a powerlifter, and may upload powerlifting content at some point.
 

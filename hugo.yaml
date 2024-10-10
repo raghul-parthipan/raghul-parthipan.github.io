@@ -98,7 +98,7 @@ params:
   #     #   url: "https://github.com/"
   homeInfoParams:
     Title: Hi, I'm Raghul
-    Content: I'll be writing on a range of topics, focussing on ML and probability, documenting what I've learnt. I'm about to submit my PhD at Cambridge, and will then be spending 6 months at Amazon. I'm interested in using ML to forecast dynamical systems, especially the weather. Please get in touch with any relevant opportunities! There's more about me [here](/about).  
+    Content: I'll be writing on a range of topics, focussing on ML, probability and modelling the Earth system, documenting what I've learnt. I recently finished my PhD at the Computer Lab in Cambridge, and I'm currently at Amazon. I'm interested in using ML to forecast dynamical systems, especially the weather. Please get in touch with any relevant opportunities! There's more about me [here](/about).  
   
   
   socialIcons: # optional
