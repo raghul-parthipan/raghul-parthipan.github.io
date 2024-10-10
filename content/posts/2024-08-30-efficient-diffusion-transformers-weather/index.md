@@ -160,3 +160,19 @@ Second, one may ask: *"Why is the regridder necessary? Couldn't we just select o
 
 While this might work if we only intend to use a single patch slice per regional zone, the regridder is required when selecting multiple patch slices per zone. The reason for this is that it better aligns the pre-training task with the target task. In the limit of choosing all patches per regional zone, we would revert to the scenario described in the previous paragraph. However, I believe there is a balance to be found between making the pre-training task more relevant to the final task, improving training efficiency, and ensuring that the pre-training task is feasible. 
 
+## Citation
+
+Cited as:
+
+Parthipan, Raghul. (August 2024). Efficient training of diffusion transformers for the weather. https://raghulparthipan.com/posts/2024-08-30-efficient-diffusion-transformers-weather/.
+
+Or
+<pre tabindex="0"><code id="bibtex">@article{parthipan2024efficientdiffusion,
+  title   = "Efficient training of diffusion transformers for the weather",
+  author  = "Parthipan, Raghul",
+  journal = "Raghul Parthipan",
+  year    = "2024",
+  month   = "August",
+  url     = "https://raghulparthipan.com/posts/2024-08-30-efficient-diffusion-transformers-weather/"
+  }
+</code></pre>
